@@ -1,6 +1,7 @@
 {
   "packageId": "com.deucarian.ui-binding.core-state-integration",
   "displayName": "Deucarian UI Binding Core State Integration",
+  "samplePolicy": "playable-scene",
   "ownedCapabilities": [],
   "runtimeAssemblies": [
     "Deucarian.UIBinding.CoreStateIntegration"

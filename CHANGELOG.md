@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4 - 2026-07-17
+
+- Completed the playable integration sample contract and updated exact Core State and UI Binding dependencies.
+
 ## 1.0.3 - 2026-06-22
 
 - Updated the exact `com.deucarian.core-state` dependency to `1.0.1`.
