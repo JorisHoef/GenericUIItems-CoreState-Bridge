@@ -9,7 +9,7 @@
 
 The package exists so UI Binding can stay focused on UI item presentation, and Core State can stay focused on repository and selection state. Neither core package references this integration package or each other.
 
-Current package version: `1.0.3`.
+Current package version: `1.0.4`.
 
 ## When to use it
 
@@ -55,8 +55,8 @@ For local development, reference all three packages by file path from a separate
 
 ## Dependencies
 
-- `com.deucarian.ui-binding` `1.1.0` supplies the UI container and item contracts.
-- `com.deucarian.core-state` `1.0.1` supplies repository and selection-service contracts.
+- `com.deucarian.ui-binding` `1.1.1` supplies the UI container and item contracts.
+- `com.deucarian.core-state` `1.0.2` supplies repository and selection-service contracts.
 
 Neither UI Binding nor Core State depends on this integration package.
 
